@@ -1,2 +1,2 @@
 # AI_Lab
-This ismy first Git Repo
+This is my first Git Repo
