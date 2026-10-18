@@ -1,3 +1,3 @@
 # AI_Lab
 This is my first Git Repo <br>
-Author- Amrinder
+Author- Amrinder Singh Jassal
